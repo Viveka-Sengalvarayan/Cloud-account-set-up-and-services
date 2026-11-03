@@ -200,6 +200,3 @@ Thus, the AWS account was created successfully, and the AWS Management Console a
 
 ---
 
-**Experiment No.:** 1  
-**Experiment Title:** Cloud Account Setup and Services Overview in AWS  
-**Platform:** Amazon Web Services (AWS)
